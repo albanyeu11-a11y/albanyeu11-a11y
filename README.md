@@ -1,16 +1,18 @@
-## Hi there 👋
+# 🎓 Security Education Hub
 
-<!--
-**albanyeu11-a11y/albanyeu11-a11y** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Cybersecurity Learning Resources & Training Materials
 
-Here are some ideas to get you started:
+![Education](https://img.shields.io/badge/Focus-Security_Education-blue)
+![Training](https://img.shields.io/badge/Type-Learning_Resources-green)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## About Me
+Security educator focused on creating comprehensive cybersecurity learning materials, training resources, and educational content for students and professionals.
+
+## Education Focus
+- Cybersecurity course materials
+- Security training frameworks
+- Educational tool development
+- Learning methodology research
+
+## Current Projects
+Developing open-source security education resources and training methodologies for academic and professional development.
